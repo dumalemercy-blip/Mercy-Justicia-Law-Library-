@@ -1,11 +1,11 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-law01,law01.jpg,,,The Revised Penal Code ,Centralbooks,,,Revised Penal Code ,Philippines,,,,,,,eng,,https://share.google/MnApI3NL3LxRVaXnz
-law02,law02.jpg,,,Political Laws of the Philippines,Centralbooks,,,Political Laws ,Philippines,,,,,,,eng,,https://share.google/fKxhX1jJW1XcUT4lQ
-law03,law03.jpg,,,Remedial Laws of the Philippines,Centralbooks,,,Remedial Laws ,Philippines,,,,,,,eng,,https://share.google/StRXiMrkauoJsPIAY
-law04,law04.jpg,,,Civil Code of the Philippines,Centralbooks,,,Civil Code,Philippines,,,,,,,eng,,https://share.google/gQAsBPcbbWJvXuoKQ
-law05,law05.jpg,,,Introduction to Philippine Legislation,Centralbooks,,,Legislation,Philippines,,,,,,,eng,,https://share.google/30TAiE6SLv6iNDUKH
-law06,law06.jpg,,,Legal and Judicial Ethics,Rex Education,,,Legal and Judicial Ethics,Philippines,,,,,,,eng,,https://share.google/sZNk3OvU8KsDMXv21
-law07,law07.jpg,,,Basic Legal Ethics,Rex Education,,,Legal Ethics,Philippines,,,,,,,eng,,https://share.google/lMig1xQDI0RuH0v9P
-law08,law08.jpg,,,Criminal Procedure,Rex Education,,,Criminal Procedure,Philippines,,,,,,,eng,,https://share.google/jD5j4caFfTzvvbEjH
-law09,law09.pdf,,,AN ACT TO ORDAIN AND INSTITUTE THE CIVIL CODE OF THE PHILIPPINES,LawPhil,,,Civil Code of the Philippines,Philippines,,,,,,,eng,,https://lawphil.net/statutes/repacts/ra1949/pdf/ra_386_1949.pdf
-law10,law10.mp4,Criminal Law Part 1 Pre Bar Review, ,Criminal Law Part 1 Pre Bar Review,Pinoy vLaWgs,6 years ago,BAR REVIEWER from UST,Criminal Law,University of Santo Thomas,,,,,,,eng,,https://youtu.be/02CtJKi8Dyc?si=RnXAwGzCdST6Sw-6
+objectid,filename,youtubeid,title,creator,date,description,subject,type,format,language ,rights,rightsstatement
+law01,Revise Penal Code.jpg,,The Revised Penal Code ,Mercy R. Dumale,2001,The Revised Penal Code defines crimes and penalties in the Philippines,Revised Penal Code ,Image,JPG,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law02,Political Law.jpg,,Political Laws of the Philippines,Mercy R. Dumale,2002,"Political Laws of the Philippines govern the structure, powers, and functions of government.",Political Laws ,Image,JPG,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law03,Remedial Law.jpg,,Remedial Laws of the Philippines,Mercy R. Dumale,2003,Remedial Laws of the Philippines govern court procedures and legal remedies.,Remedial Laws ,Image,JPG,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law04,Civil Code.jpg,,Civil Code of the Philippines,Mercy R. Dumale,2004,Civil Code of the Philippines governs private rights and obligations.,Civil Code,Image,JPG,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law05,Legistration.jpg,,Introduction to Philippine Legislation,Mercy R. Dumale,2005,Introduction to Philippine Legislation explains the lawmaking process and statutory framework.,Legislation,Image,JPG,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law06,Legal and Judicial.jpg,,Legal and Judicial Ethics,Mercy R. Dumale,2006,Legal and Judicial Ethics covers the standards of conduct for lawyers and judges.,Legal and Judicial Ethics,Image,JPG,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law07,Legal Ehics.jpg,,Basic Legal Ethics,Mercy R. Dumale,2007,"Basic Legal Ethics , principles guiding the professional conduct of lawyers.",Legal Ethics,Image,JPG,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law08,Criminal Procedure.jpg,,Criminal Procedure,Mercy R. Dumale,2008,Criminal Procedures are the rules for how criminal cases are conducted in court.,Criminal Procedure,Image,JPG,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law09,Civil Code of the Philippines.pdf,,AN ACT TO ORDAIN AND INSTITUTE THE CIVIL CODE OF THE PHILIPPINES,Mercy R. Dumale,2009,Establishes laws governing private rights and obligations.,Civil Code of the Philippines,Text,PDF,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law10,Criminal Law.mp4,Criminal Law Part 1 Pre Bar Review,Criminal Law Part 1 Pre Bar Review,Mercy R. Dumale,2010,BAR REVIEWER from UST,Criminal Law,Moving Image,MP4,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
