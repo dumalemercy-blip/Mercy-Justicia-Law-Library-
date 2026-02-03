@@ -1,17 +1,11 @@
-objectid,filename,youtubeid,title,creator,date,description,subject,type,format,language ,rights,rightsstatement
-law01,Revise_Penal_Code.jpg,,The Revised Penal Code ,Mercy R. Dumale,2001,The Revised Penal Code defines crimes and penalties in the Philippines,Revised Penal Code ,Image,image/jpg,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law02,Political_Law.jpg,,Political Laws of the Philippines,Mercy R. Dumale,2002,"Political Laws of the Philippines govern the structure, powers, and functions of government.",Political Laws ,Image,image/jpg,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law03,Remedial_Law.jpg,,Remedial Laws of the Philippines,Mercy R. Dumale,2003,Remedial Laws of the Philippines govern court procedures and legal remedies.,Remedial Laws ,Image,image/jpg,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law04,Civil_Code.jpg,,Civil Code of the Philippines,Mercy R. Dumale,2004,Civil Code of the Philippines governs private rights and obligations.,Civil Code,Image,image/jpg,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law05,Bill_of_Rights.jpg,,Philippine Bill of Rights,Mercy R. Dumale,2005,Guarantees fundamental rights and freedoms of individuals.,Bill of Rights,Image,image/jpg,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law06,Legal_and_Judicial.jpg,,Legal and Judicial Ethics,Mercy R. Dumale,2006,Legal and Judicial Ethics covers the standards of conduct for lawyers and judges.,Legal and Judicial Ethics,Image,image/jpg,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law07,Legal_Ethics.jpg,,Basic Legal Ethics,Mercy R. Dumale,2007,"Basic Legal Ethics , principles guiding the professional conduct of lawyers.",Legal Ethics,Image,image/jpg,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law08,Criminal_Procedure.jpg,,Criminal Procedure,Mercy R. Dumale,2008,Criminal Procedures are the rules for how criminal cases are conducted in court.,Criminal Procedure,Image,image/jpg,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law09,Civil_Code_of_the_Philippines.pdf,,AN ACT TO ORDAIN AND INSTITUTE THE CIVIL CODE OF THE PHILIPPINES,Mercy R. Dumale,2009,Establishes laws governing private rights and obligations.,Civil Code of the Philippines,Text,PDF,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-law10,What_is_corruption.mp4,Criminal Law Part 1 Pre Bar Review,Corruption,Mercy R. Dumale,2010,Abuse of power for personal gain.,Corruption,Moving Image,MP4,English,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
-
-
-
-
-
-
+objectid,filename,youtubeid,title,creator,date,description,subject,identifier,type,format,language ,rights,rightsstatement
+law01,Revise_Penal_Code.jpg,,The Revised Penal Code ,Mercy R. Dumale,2001,The Revised Penal Code defines crimes and penalties in the Philippines,Revised Penal Code ,Revise_Penal_Code,Image,image/jpg,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law02,Political_Law.jpg,,Political Laws of the Philippines,Mercy R. Dumale,2002,"Political Laws of the Philippines govern the structure, powers, and functions of government.",Political Laws ,Political_Law,Image,image/jpg,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law03,Remedial_Law.jpg,,Remedial Laws of the Philippines,Mercy R. Dumale,2003,Remedial Laws of the Philippines govern court procedures and legal remedies.,Remedial Laws ,Remedial_Law,Image,image/jpg,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law04,Civil_Code.jpg,,Civil Code of the Philippines,Mercy R. Dumale,2004,Civil Code of the Philippines governs private rights and obligations.,Civil Code,Civil_Code,Image,image/jpg,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law05,Bill_of_Rights.jpg,,Philippine Bill of Rights,Mercy R. Dumale,2005,Guarantees fundamental rights and freedoms of individuals.,Bill of Rights,Bill_of_Rights,Image,image/jpg,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law06,Legal_and_Judicial.jpg,,Legal and Judicial Ethics,Mercy R. Dumale,2006,Legal and Judicial Ethics covers the standards of conduct for lawyers and judges.,Legal and Judicial Ethics,Legal_and_Judicial,Image,image/jpg,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law07,Legal_Ehics.jpg,,Basic Legal Ethics,Mercy R. Dumale,2007,"Basic Legal Ethics , principles guiding the professional conduct of lawyers.",Legal Ethics,Legal_Ehics,Image,image/jpg,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law08,Criminal_Procedure.jpg,,Criminal Procedure,Mercy R. Dumale,2008,Criminal Procedures are the rules for how criminal cases are conducted in court.,Criminal Procedure,Criminal_Procedure,Image,image/jpg,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law09,Civil_Code_of_the_Philippines.pdf,,AN ACT TO ORDAIN AND INSTITUTE THE CIVIL CODE OF THE PHILIPPINES,Mercy R. Dumale,2009,Establishes laws governing private rights and obligations.,Civil Code of the Philippines,Civil_Code_of_the_Philippines,Text,PDF,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
+law10,What_is_corruption.mp4,,Corruption,Mercy R. Dumale,2010,Abuse of power for personal gain.,Corruption,What_is_corruption,Moving Image,MP4,eng,copyright,http://rightsstatements.org/vocab/NoC-US/1.0/
